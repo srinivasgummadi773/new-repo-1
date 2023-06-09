@@ -1,2 +1,1 @@
-# new-repo-1
-practice 1
+updated code
